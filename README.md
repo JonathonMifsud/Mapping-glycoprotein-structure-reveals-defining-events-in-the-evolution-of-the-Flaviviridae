@@ -2,6 +2,8 @@
 
 Code / scripts for the _Flaviviridae_ glycoprotein project.
 
+Data for this project is deposited at:
+
 Link to preprint: 
 
 
