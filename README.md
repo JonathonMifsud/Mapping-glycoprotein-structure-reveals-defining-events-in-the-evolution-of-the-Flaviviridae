@@ -1,4 +1,4 @@
-## Mapping-glycoprotein-structure-reveals-defining-events-in-the-evolution-of-the-Flaviviridae
+## Mapping glycoprotein structure reveals defining events in the evolution of the _Flaviviridae_ 🦠💻
 
 Code / scripts for the _Flaviviridae_ glycoprotein project.
 
