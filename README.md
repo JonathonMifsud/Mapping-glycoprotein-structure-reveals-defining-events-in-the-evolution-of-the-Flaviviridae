@@ -4,7 +4,7 @@ Code / scripts for the _Flaviviridae_ glycoprotein project.
 
 Data for this project is deposited at: https://zenodo.org/records/10616318
 
-Link to preprint: 
+Link to preprint: https://www.biorxiv.org/content/10.1101/2024.02.06.579159v1
 
 
 Disclaimer  
