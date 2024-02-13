@@ -18,6 +18,9 @@ library(tidyverse)
 library(rentrez)
 library(taxize)
 library(readxl)
+library(reshape2)
+library(purrr)
+library(magrittr)
 
 # Reading sequence summary table and preprocessing
 df <- read_xlsx("Supplementary_table_1.xlsx", skip = 1)
